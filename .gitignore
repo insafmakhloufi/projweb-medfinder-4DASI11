@@ -1,0 +1,19 @@
+# Java / Maven
+target/
+*.class
+*.log
+.mvn/wrapper/maven-wrapper.jar
+# IDE
+.idea/
+*.iml
+.vscode/
+.DS_Store
+# Front-end
+node_modules/
+dist/
+# LaTeX
+*.aux
+*.toc
+*.lof
+*.out
+*.synctex.gz
