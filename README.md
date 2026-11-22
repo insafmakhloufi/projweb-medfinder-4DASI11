@@ -8,9 +8,9 @@ Mini-projet du module **AWD / MT-41 · Applications Web Distribuées** (2026-202
 
 | Membre | Microservice individuel | Partie commune |
 |---|---|---|
-| Jihed Khlifi | MS1 · Pharmacies (`pharmacy-service`) | API Gateway, Swagger |
+|  Ferdaouas Oueslati| MS1 · Pharmacies (`pharmacy-service`) | API Gateway, Swagger |
 | Abdelhamid Ayadi | MS2 · Médicaments (`medicine-service`) | Keycloak, sécurité |
-| Ferdaouas Oueslati | MS3 · Stocks (`stock-service`) | Docker, RabbitMQ, pilotage MS5 |
+| Jihed Khlifi | MS3 · Stocks (`stock-service`) | Docker, RabbitMQ, pilotage MS5 |
 | Insaf Makhloufi | MS4 · Réservations et alertes (`reservation-service`) | Eureka, Config Server |
 | Toute l'équipe | MS5 · Notifications et statistiques (`notification-service`) | Microservice commun |
 
